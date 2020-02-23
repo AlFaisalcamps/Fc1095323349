@@ -587,7 +587,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "بيت شعر رجال",
+                "caption": "بيت شعر للرجال",
                 "active": false
               },
               {
@@ -652,7 +652,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "بيت شر نساء&nbsp;",
+                "caption": "بيت شعر للنساء&nbsp;",
                 "active": false
               },
               {
@@ -665,7 +665,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "جلسة كويتية نساء",
+                "caption": "جلسة كويتية&nbsp;",
                 "active": true
               }
             ]

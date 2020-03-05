@@ -1782,7 +1782,7 @@ body {
 .cid-rRfa3FJD3W {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #94d7ed;
 }
 .cid-rRfa3FJD3W .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -1805,8 +1805,8 @@ body {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #ffffff;
-  background: linear-gradient(to left, #ffffff, #45505b) !important;
+  background: #94d7ed;
+  background: linear-gradient(to left, #94d7ed, #45505b) !important;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
@@ -1835,8 +1835,8 @@ body {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #ffffff !important;
-  background: linear-gradient(to left, #ffffff, #45505b) !important;
+  background: #94d7ed !important;
+  background: linear-gradient(to left, #94d7ed, #45505b) !important;
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;

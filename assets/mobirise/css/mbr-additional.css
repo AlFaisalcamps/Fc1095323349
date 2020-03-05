@@ -1766,6 +1766,19 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/background5.jpg");
 }
+.cid-rSn7ypArSW {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #94d7ed;
+}
+.cid-rSn7ypArSW .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rSn7ypArSW .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rRfa3FJD3W {
   padding-top: 90px;
   padding-bottom: 90px;
